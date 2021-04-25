@@ -43,6 +43,7 @@ footer {
 
 /* TODO: Add fixed */
 header {
+  display: inline;
   position: fixed;
   border-bottom: 10px solid #DDAF94;
 }
@@ -109,6 +110,7 @@ button {
   text-align: center;
 }
 
-.text-right {
-  text-align: right;
+.text-left {
+  text-align: left
+  ;
 }
